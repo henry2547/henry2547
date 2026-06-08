@@ -1,48 +1,197 @@
-# 👋 Hi, I’m Henry Muchiri  
-**Software Engineer | IT Support Specialist | Math & CS Enthusiast**[span_2](start_span)[span_2](end_span) 
-### 👨‍💻 About Me  
-- 🚀 **Full-Stack Developer & IT Specialist** with 2+ years of hands-on experience building scalable applications and managing technical infrastructure[span_3](start_span)[span_3](end_span).
-- 🎓 Holder of a **B.Sc. in Mathematics & Computer Science** (Specialization in Software Engineering)[span_4](start_span)[span_4](end_span).
-- 🛠️ Experienced in delivering **end-user IT support**, network troubleshooting, and systems administration alongside core software development[span_5](start_span)[span_5](end_span).
-- 💡 Passionate about leveraging data-driven development, Agile methodologies, and robust backend architectures to solve real-world problems[span_6](start_span)[span_6](end_span).
-- 🎮 When not coding or troubleshooting, I enjoy **watching sci-fi/thriller movies, traveling, and playing eFootball**[span_7](start_span)[span_7](end_span).  
----
-### 🛠️ Skills & Tech Stack  
+# 👋 Hi, I'm Henry Muchiri
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | Java, Kotlin, PHP, JavaScript, C++, HTML/CSS, Python[span_8](start_span)[span_8](end_span) |
-| **Frameworks / Libraries** | Laravel, Node.js, Next.js, React[span_9](start_span)[span_9](end_span) |
-| **Databases** | MySQL, PostgreSQL[span_10](start_span)[span_10](end_span) |
-| **IT Support & Systems** | Hardware/Software Troubleshooting, LAN/WAN Networking, ITSM Tools, User Access/Identity Management[span_11](start_span)[span_11](end_span) |
-| **Developer Tools** | Git/GitHub, VS Code, Postman, Linux[span_12](start_span)[span_12](end_span) |
+**Software Engineer | IT Support Specialist | Mathematics & Computer Science Graduate**
 
 ---
-### 💼 Featured Projects  
-🔹 **[Kenya Golf Union](https://github.com/henry2547/kgu)**  
-* Golf tournament, event management, and role-based administration platform[span_13](start_span)[span_13](end_span).  
-* **Tech Stack**: PHP, JavaScript, HTML, CSS, MySQL, Git[span_14](start_span)[span_14](end_span)  
-🔹 **[Stalker Website](https://stalker-sable.vercel.app/)**  
-* A platform to view social media profiles anonymously.  
-* **Tech Stack**: Next.js, API Integration[span_15](start_span)[span_15](end_span)  
-🔹 **[Bank Management System](https://github.com/henry2547/BankManagementSystem)**  
-* A console-based banking infrastructure application[span_16](start_span)[span_16](end_span).  
-* **Tech Stack**: Java, MySQL[span_17](start_span)[span_17](end_span)  
-🔹 **[Khalif Spices Ltd](https://github.com/henry2547/khalif)**  
-* E-commerce platform for spice delivery featuring automated multi-user roles[span_18](start_span)[span_18](end_span).  
-* **Tech Stack**: PHP, JavaScript, HTML, CSS, MySQL[span_19](start_span)[span_19](end_span)  
-🔹 **[Invoice Automation Tool](https://github.com/henry2547)** *(KenGEN Module)*  
-* Financial software module designed to automate and streamline invoice processing[span_20](start_span)[span_20](end_span).  
-* **Tech Stack**: PHP, MySQL[span_21](start_span)[span_21](end_span)  
+
+## 👨‍💻 About Me
+
+I'm a passionate Software Engineer and IT Support Specialist with over two years of hands-on experience developing scalable web applications, maintaining IT infrastructure, and delivering technical support solutions. My background in Mathematics and Computer Science enables me to approach problems analytically while building practical, user-focused systems.
+
+I enjoy creating efficient software, optimizing business processes through automation, and solving technical challenges across both software development and IT operations.
+
+### Highlights
+
+* 🚀 Full-Stack Developer with experience building web applications and enterprise solutions.
+* 🎓 Bachelor of Science in Mathematics & Computer Science (Software Engineering Specialization).
+* 🛠️ Skilled in IT support, systems administration, network troubleshooting, and end-user support.
+* 💡 Passionate about backend architecture, API integrations, and scalable software solutions.
+* 📈 Strong advocate of Agile development, clean code practices, and continuous learning.
+* 🎮 Outside tech, I enjoy sci-fi and thriller movies, traveling, and playing eFootball.
+
 ---
-### 🌱 Currently Exploring  
-- Advanced Backend Architecture (Node.js & Laravel deep-dives)[span_22](start_span)[span_22](end_span).  
-- Scalable API Integrations & Cloud Infrastructure[span_23](start_span)[span_23](end_span).  
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+* Java
+* Kotlin
+* PHP
+* JavaScript
+* Python
+* C++
+* HTML5 & CSS3
+
+### Frameworks & Technologies
+
+* Laravel
+* Node.js
+* React.js
+* Next.js
+
+### Databases
+
+* MySQL
+* PostgreSQL
+
+### IT Support & Systems
+
+* Hardware & Software Troubleshooting
+* LAN/WAN Networking
+* System Administration
+* Identity & Access Management
+* IT Service Management (ITSM)
+* User Support & Technical Documentation
+
+### Development Tools
+
+* Git & GitHub
+* VS Code
+* Postman
+* Linux
+* REST APIs
+
 ---
-### 📫 Let’s Connect!  
-- 📧 **Email**: [henrynjue255@gmail.com](mailto:henrynjue255@gmail.com)[span_24](start_span)[span_24](end_span)  
-- 🌐 **Portfolio**: [henry254.vercel.app](https://henry254.vercel.app/)[span_25](start_span)[span_25](end_span)  
-- 💼 **LinkedIn**: [Profile](https://www.linkedin.com/in/njue-muchiri-5a7532360?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)[span_26](start_span)[span_26](end_span)  
-- 🐦 **Twitter/X**: [@njue_unruly](https://twitter.com/njue_unruly)[span_27](start_span)[span_27](end_span)  
+
+## 💼 Featured Projects
+
+### 🏌️ Kenya Golf Union Management System
+
+A comprehensive platform for managing golf tournaments, events, memberships, and administrative operations.
+
+**Key Features**
+
+* Tournament scheduling and management
+* Role-based access control
+* Membership management
+* Administrative dashboard
+
+**Tech Stack:** PHP, JavaScript, MySQL, HTML, CSS, Git
+
+**Repository:**
+[GitHub Repository](https://github.com/henry2547/kgu?utm_source=chatgpt.com)
+
 ---
-*⭐ Welcome to my profile! Feel free to explore my repositories or reach out for collaborations.*
+
+### 🌐 Stalker Website
+
+A web application designed to provide anonymous social media profile viewing functionality through external integrations.
+
+**Key Features**
+
+* Modern responsive interface
+* API integrations
+* Fast and optimized performance
+
+**Tech Stack:** Next.js, JavaScript, APIs
+
+**Live Demo:**
+[Visit Website](https://stalker-sable.vercel.app/?utm_source=chatgpt.com)
+
+---
+
+### 🏦 Bank Management System
+
+A console-based banking application that simulates core banking operations and account management workflows.
+
+**Key Features**
+
+* Account creation and management
+* Transaction processing
+* Customer record handling
+
+**Tech Stack:** Java, MySQL
+
+**Repository:**
+[GitHub Repository](https://github.com/henry2547/BankManagementSystem?utm_source=chatgpt.com)
+
+---
+
+### 🌶️ Khalif Spices E-Commerce Platform
+
+An online platform for product management, order processing, and customer interactions.
+
+**Key Features**
+
+* Product catalog management
+* Order tracking
+* Multi-user role management
+* Administrative controls
+
+**Tech Stack:** PHP, JavaScript, MySQL, HTML, CSS
+
+**Repository:**
+[GitHub Repository](https://github.com/henry2547/khalif?utm_source=chatgpt.com)
+
+---
+
+### 📄 Invoice Automation Tool (KenGen Module)
+
+A financial automation solution developed to streamline invoice processing and reduce manual administrative tasks.
+
+**Key Features**
+
+* Automated invoice workflows
+* Data validation
+* Process optimization
+* Reporting support
+
+**Tech Stack:** PHP, MySQL
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced Backend Architecture with Laravel and Node.js
+* Scalable API Design & Integrations
+* Cloud Infrastructure & Deployment
+* Software Design Patterns
+* System Performance Optimization
+
+---
+
+## 🎯 Career Interests
+
+I'm actively interested in opportunities involving:
+
+* Full-Stack Software Development
+* Backend Engineering
+* IT Support & Systems Administration
+* Enterprise Application Development
+* Technical Support Engineering
+* DevOps & Cloud Technologies
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** [henrynjue255@gmail.com](mailto:henrynjue255@gmail.com)
+
+🌐 **Portfolio:**
+[Personal Portfolio](https://henry254.vercel.app/?utm_source=chatgpt.com)
+
+💼 **LinkedIn:**
+[LinkedIn Profile](https://www.linkedin.com/in/njue-muchiri-5a7532360?utm_source=chatgpt.com)
+
+🐦 **X (Twitter):**
+[@njue_unruly](https://twitter.com/njue_unruly?utm_source=chatgpt.com)
+
+🐙 **GitHub:**
+[GitHub Profile](https://github.com/henry2547?utm_source=chatgpt.com)
+
+---
+
+### ⭐ Thanks for Visiting!
+
+I'm always open to collaborating on exciting software projects, discussing technology, and exploring opportunities that create meaningful impact through innovation and problem-solving. Feel free to connect or reach out.
